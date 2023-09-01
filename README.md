@@ -4,11 +4,12 @@ The project works with dataset of dogs and cats images. and two classifiers A an
 
 Scatterplot 
 
-![image](https://github.com/fareedsho/Thesis-Assignment/assets/143728044/5e387da7-fe30-4f4b-97c9-d0b57b28c3ef)
+![image](https://github.com/fareedsho/Thesis-Assignment/assets/143728044/8c51f6bf-5ff0-427a-8720-c079c329a215)
 
 Line plot1
 
-![image](https://github.com/fareedsho/Thesis-Assignment/assets/143728044/6bb1dbd2-14a3-4b06-b525-f45e61e95588)
+![image](https://github.com/fareedsho/Thesis-Assignment/assets/143728044/795d6b78-bfed-4ed2-bf7c-c50cc9257436)
+
 
 Line plot2
 
