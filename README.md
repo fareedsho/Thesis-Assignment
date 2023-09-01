@@ -1,6 +1,6 @@
 # Thesis-Assignment
 My project implementation 
-The project works with dataset of dogs and cats images. and two classifiers A and B.
+The project works with dataset of dogs and cats images. and two classifiers A and B. The project has a juipter note book file which can be opened and the csv file is included is the same as the oned provided changes are made inside the code. 
 
 Scatterplot 
 
